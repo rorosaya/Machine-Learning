@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This Repository Contains projects in Machine Learning by Rawad Sayah
+This Repository Contains projects in Machine Learning/Data Science by Rawad Sayah
 
 The first two files contain Jupiter files that compare algorithm efficiency
   - An Imaging DataSet with Car Logos (Classification)
