@@ -15,4 +15,4 @@ The first two files contain Jupiter files that compare algorithm efficiency
 ---
 The ML Labs Folder contains Labwork on the implementation of various fundamental ML algorithms
 - Labs were provided by Coursera - Andrew Ng's Machine Learning Collection
-- Logistic Regression Analysis: See Logistic_Regression.ipynb
+- Logistic Regression Analysis: See <a href="">Logistic_Regression.ipynb</a>
