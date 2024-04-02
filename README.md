@@ -14,3 +14,7 @@ The first two files contain Jupiter files that compare algorithm efficiency
       • Dummy Variables
       • Linear Regression (Stochastic Descent)
       • K Nearest Neighbors
+
+The ML Labs Folder contains Labwork on the implementation of various fundamental ML algorithms. 
+      • Labs were provided by Coursera - Andrew Ng's Machine Learning Collection
+      • Logistic Regression Analysis
