@@ -13,6 +13,5 @@ The first two files contain Jupiter files that compare algorithm efficiency
       PCA | Dummy Variables | Linear Regression (Stochastic Descent) | K Nearest Neighbors
     
 ---
-The ML Labs Folder contains Labwork on the implementation of various fundamental ML algorithms
-- Labs were provided by Coursera - Andrew Ng's Machine Learning Collection
+The ML Labs Folder contains Labwork on the implementation of various fundamental ML algorithms. Labs were provided by Coursera - Andrew Ng's Machine Learning Collection
 - Logistic Regression Analysis: See <a href="https://github.com/rorosaya/Machine-Learning/blob/main/ML%20Labs/Logistic%20Regression%20Analysis/Logistic_Regression.ipynb">Logistic_Regression.ipynb</a>
